@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Your Standard Library Slack App
 
 Welcome to your Standard Library Slack Source Code! This Source Code is the fastest way to
@@ -357,3 +358,7 @@ multiple teams.
 
 We hope this has served as a welcoming introduction to your
 Slack App project scaffold on [Standard Library](https://stdlib.com) --- happy building!
+=======
+# javacado-welcomebot
+Slack Bot that welcomes new user and says hi
+>>>>>>> 2768734cece04795db0f5fca9be91742aeeaed6b
